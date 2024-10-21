@@ -1,0 +1,4 @@
+{
+  "npmToken": "{{ secrets.NPM_TOKEN }}",
+  "npmrc": "@fortawesome:registry=https://npm.fontawesome.com\n//npm.fontawesome.com/:_authToken=${NPM_TOKEN}"
+}
